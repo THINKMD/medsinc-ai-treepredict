@@ -1,0 +1,22 @@
+{
+  "name": "workspace",
+  "version": "0.0.1",
+  "description": "Medsinc TreePredict Class",
+  "main": "/lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/THINKMD/medsinc-ai-treepredict.git"
+  },
+  "author": "Andy Metcalf <aametcalf01@gmail.com>",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/THINKMD/medsinc-ai-treepredict/issues"
+  },
+  "homepage": "https://github.com/THINKMD/medsinc-ai-treepredict#readme",
+  "engines": {
+    "node": "*"
+  },
+}
